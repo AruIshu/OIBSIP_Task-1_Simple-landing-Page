@@ -1,1 +1,3 @@
-# OIBSIP_Task-1_Simple-landing-Page
+# Landing_Page
+
+This is a simple Landing Page of a website to design homes.
